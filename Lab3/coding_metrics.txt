@@ -1,0 +1,16 @@
+DIGITAL IMAGE CODING RESULTS
+=============================
+Image: nature_processing_600x400.jpg
+Pixels: 240000
+
+Entropy = 7.653274 bits/pixel
+
+Shannon-Fano:
+Average code length = 7.705958 bits/symbol
+Efficiency = 99.32 %
+Compression ratio vs 8-bit representation = 1.038:1
+
+Huffman:
+Average code length = 7.682900 bits/symbol
+Efficiency = 99.61 %
+Compression ratio vs 8-bit representation = 1.041:1
